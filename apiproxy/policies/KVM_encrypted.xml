@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="KVM_encrypted" mapIdentifier="Series-4-encrypted">
+    <DisplayName>KVM_encrypted</DisplayName>
+    <Properties/>
+    <Get assignTo="private.question1">
+        <Key>
+            <Parameter>what is your name</Parameter>
+        </Key>
+    </Get>
+    <Get assignTo="private.question2">
+        <Key>
+            <Parameter>where is your native</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="EncrptedKVM">
+    <Basepaths>/v1/encrptedkvm</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1543311963191</CreatedAt>
+    <CreatedBy>pm00507324@techmahindra.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>EncrptedKVM</DisplayName>
+    <LastModifiedAt>1543312438947</LastModifiedAt>
+    <LastModifiedBy>pm00507324@techmahindra.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f78847854f4468a65b45a79f3572364e8676a28f4617972338ba9119cc2b38a39c7175688ca3f8c0f5fbaace635d50e4eb85e44e1bdc6752a3e66f7f5fa4fb39</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-1</Policy>
+        <Policy>KVM_encrypted</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
